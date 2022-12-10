@@ -1,6 +1,15 @@
 
 Swap Alternate element in an array
+internal working of swap function 
+          {
+            int temp = arr[i+1];
+            arr[i+1] = arr[i];
+            arr[i] = temp;
+           }
 
+
+Code start from here
+ 
 #include<iostream>
 using namespace std;
 
