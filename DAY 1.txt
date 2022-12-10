@@ -1,3 +1,6 @@
+
+Swap Alternate element in an array
+
 #include<iostream>
 using namespace std;
 
